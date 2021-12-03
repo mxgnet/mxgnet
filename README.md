@@ -4,4 +4,4 @@ follow/add me on roblox @m_gnet or @kingki, either works
 
 i script in lua and am learning python
 
-![jiren](https://user-images.githubusercontent.com/86327263/142797676-cd98cfec-3e92-4698-bdb0-63a68b83261b.gif)
+![lol](https://user-images.githubusercontent.com/86327263/144540295-3a1feb77-0818-4830-9c70-335b2b3ac4bd.gif)
