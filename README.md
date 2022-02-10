@@ -1,7 +1,3 @@
-![magnet#1423](https://user-images.githubusercontent.com/86327263/149601122-9cfdd532-d32b-4579-ab09-830e4f763332.gif)
+dj $crim with that 808
 
-im magnet
-
-follow/add me on roblox @m_gnet or @kingki, either works
-
-i script in lua and am learning python
+![magnet#0062](https://user-images.githubusercontent.com/86327263/153499492-5b8d922a-b549-4611-8b35-a360ba9792b7.gif)
