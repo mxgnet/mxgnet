@@ -1,3 +1,3 @@
 ```lua / python```
 
-![magnet#0062](https://user-images.githubusercontent.com/86327263/153499492-5b8d922a-b549-4611-8b35-a360ba9792b7.gif)
+![ok](https://user-images.githubusercontent.com/86327263/154385596-c04c0aae-23cb-46fe-a7af-6bdcfcb9a1b2.gif)
