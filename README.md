@@ -1,7 +1,7 @@
 ```lua / python```
 
-![v](https://user-images.githubusercontent.com/86327263/154385596-c04c0aae-23cb-46fe-a7af-6bdcfcb9a1b2.gif)
+![m_gnet / kingki on roblox](https://user-images.githubusercontent.com/86327263/159100330-4f75c017-0489-436b-b7d0-ecba3cd91302.gif)
 
-![v](https://raw.githubusercontent.com/shitnuts/stats/4aa0503cdb369325ce0f2030db6e8ea75261c9cd/generated/overview.svg)
+![m_gnet / kingki on roblox](https://raw.githubusercontent.com/shitnuts/stats/4aa0503cdb369325ce0f2030db6e8ea75261c9cd/generated/overview.svg)
 
-![v](https://raw.githubusercontent.com/shitnuts/stats/4aa0503cdb369325ce0f2030db6e8ea75261c9cd/generated/languages.svg)
+![m_gnet / kingki on roblox](https://raw.githubusercontent.com/shitnuts/stats/4aa0503cdb369325ce0f2030db6e8ea75261c9cd/generated/languages.svg)
